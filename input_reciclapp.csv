@@ -1,0 +1,34 @@
+﻿Mes;Fecha;Nombre cliente;RUT;Comuna;Dirección;;Tipo de residuo;Peso mensual (kg);Peso por retiro;Razón social empresa transportista;RUT reciclador / empresa transportista;Patente vehiculo transportista;Razón social empresa destinataria;RUT empresa destinataria;Certificado;Comentario
+ENERO;;Adidas corporativo;77.372.640-K;VITACURA;Espoz 3150;Bastián Arce;Cartón;30,0;30;;;;;;ENVIADO POR TIARE;
+ENERO;;Adidas corporativo;77.372.640-K;VITACURA;Espoz 3150;Bastián Arce;Aluminio;1,0;1;;;;;;ENVIADO POR TIARE;
+ENERO;;Adidas corporativo;77.372.640-K;VITACURA;Espoz 3150;Bastián Arce;Plástico PET 1;2,0;2;;;;;;ENVIADO POR TIARE;
+ENERO;;Autofact;77.372.850-6;PROVIDENCIA;Huelén 71;Bastián Arce;Vidrio;31,5;;;;;;;ENVIADO POR TIARE;
+ENERO;;Autofact;77.372.850-6;PROVIDENCIA;Huelén 71;Bastián Arce;Cartón;10,0;;;;;;;ENVIADO POR TIARE;
+ENERO;;Autofact;77.372.850-6;PROVIDENCIA;Huelén 71;Bastián Arce;Plástico PET 1;6,0;;;;;;;ENVIADO POR TIARE;
+ENERO;;Autofact;77.372.850-6;PROVIDENCIA;Huelén 71;Bastián Arce;Aluminio;3,0;;;;;;;ENVIADO POR TIARE;
+ENERO;;Awto;73.342.860-1;PROVIDENCIA;Regimiento Cazadores 1268;Bastián Arce;Papel;1,0;;;;;;;ENVIADO POR TIARE;
+ENERO;;Awto;73.342.860-1;PROVIDENCIA;Regimiento Cazadores 1268;Bastián Arce;Aluminio;1,1;;;;;;;ENVIADO POR TIARE;
+ENERO;;Awto;73.342.860-1;PROVIDENCIA;Regimiento Cazadores 1268;Bastián Arce;Plástico PET 1;0,5;;;;;;;ENVIADO POR TIARE;
+ENERO;;Awto;73.342.860-1;PROVIDENCIA;Regimiento Cazadores 1268;Bastián Arce;Cartón;0,5;;;;;;;ENVIADO POR TIARE;
+ENERO;;Club de Planeadores ;12.123.443-K;VITACURA;Sta. María 6299;Regenera;Cartón;45,0;;;;;;;ENVIADO POR TIARE;regenera completa los datos de retiro en esta tabla https://docs.google.com/spreadsheets/d/1ReXwGUOpZVnw-o07izJVxvM2En-6YsuxZwdeUHFPnF8/edit#gid=1081523812
+ENERO;;Club de Planeadores ;12.123.443-K;VITACURA;Sta. María 6299;Regenera;Vidrio;65,0;;;;;;;ENVIADO POR TIARE;regenera completa los datos de retiro en esta tabla https://docs.google.com/spreadsheets/d/1ReXwGUOpZVnw-o07izJVxvM2En-6YsuxZwdeUHFPnF8/edit#gid=1081523812
+ENERO;;Compass Group;67.321.123-0;SANTIAGO;Miraflores 154;Bastián Arce;Plástico PET 1;9,5;;;;;;;ENVIADO POR TIARE;
+ENERO;;Compass Group;67.321.123-0;SANTIAGO;Miraflores 154;Bastián Arce;Plástico LDPE 4;65,0;;;;;;;ENVIADO POR TIARE;
+ENERO;;Compass Group;67.321.123-0;SANTIAGO;Miraflores 154;Bastián Arce;Aluminio;3,0;;;;;;;ENVIADO POR TIARE;
+ENERO;;Compass Group;67.321.123-0;SANTIAGO;Miraflores 154;Bastián Arce;Papel;41,0;;;;;;;ENVIADO POR TIARE;
+ENERO;;Compass Group;67.321.123-0;SANTIAGO;Miraflores 154;Bastián Arce;Cartón;-;;;;;;;ENVIADO POR TIARE;
+ENERO;;Dark Kitchen Hood;69.696.696-9;PROVIDENCIA;Diagonal Oriente 13010;Regenera;Cartón;32,0;;;;;;;LISTO PARA ENVIAR;
+ENERO;;Dark Kitchen Hood;69.696.696-9;PROVIDENCIA;Diagonal Oriente 13010;Regenera;Plástico PET 1;5,0;;;;;;;LISTO PARA ENVIAR;
+ENERO;;Dark Kitchen Hood;69.696.696-9;PROVIDENCIA;Diagonal Oriente 13010;Regenera;Aluminio;6,0;;;;;;;LISTO PARA ENVIAR;
+ENERO;;Dark Kitchen Hood;69.696.696-9;PROVIDENCIA;Diagonal Oriente 13010;Regenera;Vidrio;58,0;;;;;;;LISTO PARA ENVIAR;
+ENERO;;Dark Kitchen Hood;69.696.696-9;PROVIDENCIA;Diagonal Oriente 13010;Regenera;Orgánico;2,0;;;;;;;LISTO PARA ENVIAR;
+ENERO;;Confuturo;43.977.456-K;SANTIAGO;Monjitas 788;Reticlaje;Vidrio;0,4;;;;;;;ENVIADO POR VALE;
+ENERO;;Confuturo;43.977.456-K;SANTIAGO;Monjitas 788;Reticlaje;Plástico PET 1;1,6;;;;;;;ENVIADO POR VALE;
+ENERO;;Confuturo;43.977.456-K;SANTIAGO;Monjitas 788;Reticlaje;Aluminio;0,4;;;;;;;ENVIADO POR VALE;
+ENERO;;Confuturo;43.977.456-K;SANTIAGO;Monjitas 788;Reticlaje;Tetrapak;0,2;;;;;;;ENVIADO POR VALE;
+ENERO;;Confuturo;43.977.456-K;SANTIAGO;Monjitas 788;Reticlaje;Cartón;1,5;;;;;;;ENVIADO POR VALE;
+ENERO;;Confuturo;43.977.456-K;SANTIAGO;Monjitas 788;Reticlaje;Papel;97,0;;;;;;;ENVIADO POR VALE;
+ENERO;;Confuturo;43.977.456-K;CONCEPCION;Paicaví 1378;Recicla Hoy;Plástico PET 1;1,0;;;;;;;ENVIADO POR VALE;
+ENERO;;Confuturo;43.977.456-K;CONCEPCION;Paicaví 1378;Recicla Hoy;Papel;9,0;;;;;;;ENVIADO POR VALE;
+ENERO;;Confuturo;43.977.456-K;VIÑA DEL MAR;12 Norte 1115;Gestión Verde;Papel;27,0;;;;;;;ENVIADO POR VALE;
+ENERO;;Confuturo;43.977.456-K;VIÑA DEL MAR;12 Norte 1115;Gestión Verde;Plástico PET 1;0,7;;;;;;;ENVIADO POR VALE;

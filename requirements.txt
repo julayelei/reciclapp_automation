@@ -1,0 +1,4 @@
+pandas
+reportlab
+PDF2==2.12.1
+pillow

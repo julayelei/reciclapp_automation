@@ -1,0 +1,16 @@
+General_confs:
+  Directorio: iconos_residuos/
+
+Residuos:
+  Aluminio: aluminio.png
+  Cartón: carton.jpg
+  Chatarra: chatarra.png
+  Orgánico: organico.png
+  Papel: papel.png
+  Plástico HDPE 2: plastico_hdpe_2.png
+  Plástico LDPE 4: plastico_ldpe_4.png
+  Plástico PET 1: plastico_pet_1.png
+  Plástico PP5: plastico_pp5.png
+  Tetrapak: tetrapak.png
+  Vidrio: vidrio.png
+  Default: plastico_pp_5.png
